@@ -1,0 +1,4 @@
+https://warsoftapi.warsoft.in/API/HBAnalysis/CheckData
+
+
+https://warsoftapi.warsoft.in/API/HBAnalysis/Report
